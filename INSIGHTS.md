@@ -75,18 +75,18 @@ Mr. Helmee's journey from overcoming obstacles to becoming an expert in project 
 This session has motivated me to:
 
 ### **Take Immediate Actions**
-1. Apply Agile principles in my upcoming group project
-2. Start a personal project using the DDI approach
-3. Document my learning journey on GitHub
+1. Stop procastinating work since it can lead late submissions
+2. Start doing personal projects that help in growth
+3. Document my learning journey on GitHub and Linkedin
 
 ### **Have Short-Term Goals**
 1. Join UTM's project management club/community
 2. Network with 5 industry professionals through UTM's platform
-3. Complete an online certification in Agile fundamentals
+3. Complete an online certification that can help with building resume
 
 ### **Have Long-Term Vision**
 1. Become a student mentor for project management
-2. Contribute to open-source projects using Agile methodology
+2. Contribute to open-source projects 
 3. Bridge the gap between academic theory and industry practice
 
 ---
