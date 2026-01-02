@@ -1,5 +1,17 @@
 # UTM Digital Day Reflection: Insights on Project Management & System Development
 
+---
+
+**Event:** UTM Digital Day 2024  
+**Date:** 29th October 2024  
+**Venue:** UTM Digital Building, Universiti Teknologi Malaysia
+**Speaker:** Mr. Helmee bin Yaacob  
+**Topic:** Project Management and System Development  
+
+---
+
+## **Overview**
+
 **UTM Digital Day** was held on **29th October**. I had the incredible opportunity to attend a talk by **Mr. Helmee bin Yaacob** about **Project Management and System Development**.
 
 Thank you, Mr. Helmee, for such an inspiring talk. I have gained a lot of knowledge from you. For instance, I learned about agile methodology in DDI development approach and 12 agile principles.
@@ -108,9 +120,3 @@ The most valuable lesson wasn't in the slides, but it is the **story behind his 
 *Personal email: lilyamirabatrisya@gmail.com*  
 *Student email: lilyamirabatrisya@graduate.utm.my*  
 
----
-
-**Event:** UTM Digital Day 2024  
-**Date:** 29th October 2024  
-**Speaker:** Mr. Helmee bin Yaacob  
-**Topic:** Project Management and System Development  
