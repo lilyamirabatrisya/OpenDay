@@ -1,7 +1,5 @@
 # UTM Digital Day Reflection: Insights on Project Management & System Development
 
----
-
 **Event:** UTM Digital Day 2024  
 **Date:** 29th October 2024  
 **Venue:** UTM Digital Building, Universiti Teknologi Malaysia
