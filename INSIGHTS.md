@@ -105,8 +105,8 @@ The most valuable lesson wasn't in the slides, but it is the **story behind his 
 **Lily Amira Batrisya binti Shahrul Sham**  
 *Faculty of Computing, Universiti Teknologi Malaysia*  
 *You can reach out to me at:*  
-*Personal email: lilyamirabatrisyal@gmail.com*  
-*Student email: lilyamirabatrisyal@graduate.utm.my*  
+*Personal email: lilyamirabatrisya@gmail.com*  
+*Student email: lilyamirabatrisya@graduate.utm.my*  
 
 ---
 
